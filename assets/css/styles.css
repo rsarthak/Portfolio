@@ -335,7 +335,8 @@ img{
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 295px;
+  width: 5px;
+  border-radius: 12px;
 }
 
 /*BUTTONS*/
